@@ -2,7 +2,7 @@
 
 ## Features
 
-**Burning Flesh** is a Minecraft datapack that lets you use _rotten flesh_ as a furnace fuel.
+**Burning Flesh** is a Minecraft datapack that lets you use _rotten flesh_ and _arrows_ as a furnace fuel.
 
 The noxious flesh can be burned in the furnace, and smoker, with the same cooking time as a _stick_.
 
