@@ -1,6 +1,5 @@
 {
- "values": [
- "minecraft:rotten_flesh",
- "minecraft:arrow"
- ]
+  "values": [
+    "minecraft:rotten_flesh"
+  ]
 }

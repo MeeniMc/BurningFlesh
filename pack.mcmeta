@@ -1,7 +1,9 @@
 {
 	"pack": {
-		"pack_format": 4,
-		"supported_formats": {"min_inclusive": 4, "max_inclusive": 48},
-		"description": "§6Burning Flesh§r: §oZombie fat fuels furnaces\n §2v1.48.1; by MeeniMc; CC BY-NC-SA 4.0\n §9https://modrinth.com/datapack/burning-flesh"
+		"pack_format": 15,
+		"supported_formats": [15, 88],
+		"min_format": 15,
+		"max_format": 88,
+		"description": "§6Burning Flesh§r: §oZombie fat fuels furnaces\n §2v2.88.0; by MeeniMc; CC BY-NC-SA 4.0\n §9https://modrinth.com/datapack/burning-flesh"
 	}
 }
